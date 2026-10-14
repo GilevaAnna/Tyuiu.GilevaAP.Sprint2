@@ -1,5 +1,5 @@
 ﻿using Tyuiu.GilevaAP.Sprint2.Task4.V27.Lib;
-namespace tyuiu.GilevaAP.Sprint2.Task4.V27
+namespace Tyuiu.GilevaAP.Sprint2.Task4.V27
 {
     internal class Program
     {
