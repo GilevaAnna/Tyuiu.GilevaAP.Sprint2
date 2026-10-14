@@ -5,7 +5,7 @@ namespace Tyuiu.GilevaAP.Sprint2.Task0.V10.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void Exampl()
+        public void Example()
         {
             DataService ds = new DataService();
             int x = 30;
