@@ -4,11 +4,4 @@
     <Project Path="Tyuiu.GilevaAP.Sprint2.Task0.V10.Test/Tyuiu.GilevaAP.Sprint2.Task0.V10.Test.csproj" />
     <Project Path="Tyuiu.GilevaAP.Sprint2.Task0.V10/Tyuiu.GilevaAP.Sprint2.Task0.V10.csproj" />
   </Folder>
-  <Folder Name="/Task1/" />
-  <Folder Name="/Task2/" />
-  <Folder Name="/Task3/" />
-  <Folder Name="/Task4/" />
-  <Folder Name="/Task5/" />
-  <Folder Name="/Task6/" />
-  <Folder Name="/Task7/" />
 </Solution>
