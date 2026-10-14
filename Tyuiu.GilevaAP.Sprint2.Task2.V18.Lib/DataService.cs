@@ -6,41 +6,41 @@ namespace Tyuiu.GilevaAP.Sprint2.Task2.V18.Lib
         public bool CheckDotInShadedArea(int x, int y)
         {
             bool res;
-            if (y == 2)
+            if (x == 2)
             {
-                return (x == 6 || x == 7);
+                return (y == 6 || y == 7);
             }
-            else if ((y >= 3) && (y <= 5))
+            else if ((x >= 3) && (x <= 5))
             {
-                return ((x >= 3 && x <= 7) || (x == 11));
+                return ((y >= 3 && x <= 7) || (y == 11));
             }
-            else if (y == 6)
+            else if (x == 6)
             {
-                return (x >= 5 && x <= 11);
+                return (y >= 5 && y <= 11);
             }
-            else if (y == 7)
+            else if (x == 7)
             {
-                return (x >= 5 && x <= 12);
+                return (y >= 5 && y <= 12);
             }
-            else if (y == 8)
+            else if (x == 8)
             {
-                return (x >= 5 && x <= 9);
+                return (y >= 5 && y <= 9);
             }
-            else if ((y >= 9) && (y <= 10))
+            else if ((x >= 9) && (x <= 10))
             {
-                return (x >= 8 && x <= 9);
+                return (y >= 8 && y <= 9);
             }
-            else if (y == 11)
+            else if (x == 11)
             {
-                return (x >= 8 && x <= 11);
+                return (y >= 8 && y <= 11);
             }
-            else if (y == 12)
+            else if (x == 12)
             {
-                return (x >= 3 && x <= 11);
+                return (y >= 3 && y <= 11);
             }
-            else if (y == 13)
+            else if (x == 13)
             {
-                return (x >= 6 && x <= 8);
+                return (y >= 6 && y <= 8);
             }
             
             return false;
