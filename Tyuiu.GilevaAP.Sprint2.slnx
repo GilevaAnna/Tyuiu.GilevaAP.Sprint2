@@ -22,6 +22,11 @@
   <Folder Name="/Task4/">
     <Project Path="Tyuiu.GilevaAP.Sprint2.Task4.V27.Lib/Tyuiu.GilevaAP.Sprint2.Task4.V27.Lib.csproj" Id="47432b0a-3ec7-47b0-98c7-5289c02f405a" />
     <Project Path="Tyuiu.GilevaAP.Sprint2.Task4.V27.Test/Tyuiu.GilevaAP.Sprint2.Task4.V27.Test.csproj" Id="e4591322-4c9e-4b9e-af78-95dff0f32541" />
-    <Project Path="tyuiu.GilevaAP.Sprint2.Task4.V27/tyuiu.GilevaAP.Sprint2.Task4.V27.csproj" DisplayName="Tyuiu.GilevaAP.Sprint2.Task4.V27" Id="e5c542cf-4fba-477a-a966-e01706231e6c" />
+    <Project Path="tyuiu.GilevaAP.Sprint2.Task4.V27/tyuiu.GilevaAP.Sprint2.Task4.V27.csproj" Id="e5c542cf-4fba-477a-a966-e01706231e6c" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.GilevaAP.Sprint2.Task5.V2.Lib/Tyuiu.GilevaAP.Sprint2.Task5.V2.Lib.csproj" Id="14e37ab3-8977-4fe9-a0c3-4ed790d0a946" />
+    <Project Path="Tyuiu.GilevaAP.Sprint2.Task5.V2.Test/Tyuiu.GilevaAP.Sprint2.Task5.V2.Test.csproj" Id="1a6a6c2d-11a4-4ff7-ac02-73db6ded2aad" />
+    <Project Path="Tyuiu.GilevaAP.Sprint2.Task5.V2/Tyuiu.GilevaAP.Sprint2.Task5.V2.csproj" Id="1fc880f5-0baf-4b0b-a844-a0b5bcbc1de6" />
   </Folder>
 </Solution>
