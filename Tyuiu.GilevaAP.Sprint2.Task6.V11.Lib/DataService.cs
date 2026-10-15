@@ -41,7 +41,7 @@ namespace Tyuiu.GilevaAP.Sprint2.Task6.V11.Lib
                 }
             }
 
-            return $"{nextN:D2}.{nextM:D2}.{nextG}.";
+            return $"{nextN:D2}.{nextM:D2}.{nextG}";
         }
     }
 }
