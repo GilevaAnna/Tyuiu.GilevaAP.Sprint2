@@ -18,14 +18,14 @@ namespace Tyuiu.GilevaAP.Sprint2.Task6.V11
             Console.WriteLine("***************************************************************************");
 
 
-            Console.WriteLine("Введите год: ");
-            int g = Convert.ToInt32(Console.ReadLine());
-
             Console.WriteLine("Введите число: ");
             int n = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Введите номер месяца: ");
             int m = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Введите год: ");
+            int g = Convert.ToInt32(Console.ReadLine());
 
 
             Console.WriteLine("***************************************************************************");
